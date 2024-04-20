@@ -143,8 +143,8 @@ API_BASE_ADDRESS = 'https://fx-api.fluentax.com'
 
 testEndpoint = "https://fx-api.fluentax.com/v1/Currencies"
 endpoint = "https://sso.fluentax.com/auth/realms/fluentax/protocol/openid-connect/token"
-client_id = "53d8d57a-8fce-45df-b7f2-e7d20eefe548"
-client_secret = "ApvcYs8npXVC09CVzfuXFt9gLNuZHkk0"
+client_id = ""
+client_secret = ""
 
 parameters = {
     'grant_type': "client_credentials",
